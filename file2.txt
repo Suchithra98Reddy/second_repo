@@ -3,8 +3,6 @@ c =12
 a= b+c
 print (a)
 
-<<<<<<< HEAD
 hi clonong from seconf repo
-=======
-hi this from anptjher repo of other user
->>>>>>> third commit from second user
+this is done in branch feature later merged
+thsiis to check for the reset command  in files 
