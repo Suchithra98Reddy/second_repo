@@ -3,3 +3,4 @@ c =12
 a= b+c
 print (a)
 
+hi clonong from seconf repo
